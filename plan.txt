@@ -1,0 +1,8 @@
+1. We Need To Download All The Images from Insta
+Method-Snip & save it to resources/images/aphorism
+2. Start building skeleton of site
+3. Get the background images
+4. Get DP
+5. Git 
+6. Host
+7. Improvements
